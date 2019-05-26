@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CoderSwagger</string>
+    <string name="hats">HATS</string>
+    <string name="hatimage">hatimage</string>
 </resources>
